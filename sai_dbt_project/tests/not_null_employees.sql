@@ -1,0 +1,1 @@
+select * from target1.public.employees where empno is null
